@@ -2,7 +2,7 @@ Package.describe({
   name: "guidouil:reveal-js",
   summary: "A framework for easily creating beautiful presentations using HTML.",
   version: "3.0.0_1",
-  git: "https://github.com/guidouil/meteor-reveal-js"
+  git: "https://github.com/guidouil/reveal.js.git"
 });
 
 Package.onUse(function(api) {
